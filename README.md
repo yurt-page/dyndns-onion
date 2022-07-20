@@ -2,6 +2,8 @@
 Dynamic DNS server that serves Tor's onion like domains
 
 ## Idea
+https://lists.torproject.org/pipermail/tor-onions/2022-June/000468.html
+
 Hello the Tor Community,
 
 I have a proposition to build a DynDNS server that will host
