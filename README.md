@@ -1,6 +1,8 @@
 # dyndns-onion
 Dynamic DNS server that serves Tor's onion like domains
 
+See other related links https://github.com/yurt-page/docs/blob/main/dns.md
+
 ## Idea
 https://lists.torproject.org/pipermail/tor-onions/2022-June/000468.html
 
